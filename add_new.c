@@ -6,5 +6,5 @@ int main()
 {
 	int value;
 	printf("adding ne wnumbers");
-	scanf("%d",value)
+	scanf("%d",value); //semicolon was missed
 }
